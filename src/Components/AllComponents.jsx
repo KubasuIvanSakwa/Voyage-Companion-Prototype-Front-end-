@@ -7,9 +7,11 @@ function AllComponents() {
     return (
         <section>
             <UpperNav />
-            <SideNav />
-            <ChatHistoryNav />
-            <ChatArea />
+            <section className="bg-[#17151B] flex h-[87.9vh] pb-[0.1rem]">
+                <SideNav />
+                <ChatArea />
+                <ChatHistoryNav />
+            </section>
         </section>
     )
 }
