@@ -3,7 +3,21 @@
 
 ```bsh
 git clone https://github.com/KubasuIvanSakwa/Voyage-Companion-Prototype-Front-end-.git
-cd Voyage-Companion-Prototype-Front-end-
-npm install
-npm run dev
+
 ```
+
+```bsh
+cd Voyage-Companion-Prototype-Front-end-
+
+```
+
+```bsh
+npm install
+
+```
+
+```bsh
+npm run dev
+
+```
+
